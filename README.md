@@ -1,16 +1,11 @@
-# acessoria
+# assessoria
 
-A new Flutter project.
+Imagens do projeto:
 
-## Getting Started
+![image](https://github.com/Wesley-Dutra/Projeto_acessoria/assets/72281650/a29660d7-2a2e-4c1a-9322-c149e7a5c5e2)
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Wesley-Dutra/Projeto_acessoria/assets/72281650/71917e5c-7362-46ce-9db6-8724dba81977)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/Wesley-Dutra/Projeto_acessoria/assets/72281650/1ebd5538-9886-40c5-a0a2-3077e7172a0c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![gif](https://github.com/Wesley-Dutra/Projeto_acessoria/assets/72281650/b67c5ee9-ae56-4082-a8ff-d08c3f93c971)
